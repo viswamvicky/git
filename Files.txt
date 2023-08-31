@@ -8,4 +8,4 @@ Project Locations
 
 All the information is available.
 
-Need to collect the Employee ID also
+Need to collect the Employee ID also.
